@@ -1,7 +1,8 @@
 
 ## Yazılım Geliştirici 👋  Hamza ORTATEPE
- ![](https://img.shields.io/badge/SoftwareDeveloper-blue)
-
+ ![](https://img.shields.io/badge/SoftwareDeveloper-red)
+ ![](https://img.shields.io/badge/SQLDeveloper-yellow)
+ ![](https://img.shields.io/badge/AlmostFullStackDeveloper-dark)
 
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hamer1818.hamer1818)](#)
