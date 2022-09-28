@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamer1818" alt="hamer1818" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ortatepehamza" target="blank"><img src="https://img.shields.io/twitter/follow/ortatepehamza?logo=twitter&style=for-the-badge" alt="ortatepehamza" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
