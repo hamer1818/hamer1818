@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza ORTATEPE</h1>
-<h3 align="center">I'm a Student developer</h3>
+<h3 align="center">I'm a Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamer1818&label=Profile%20views&color=0e75b6&style=flat" alt="hamer1818" /> </p>
 
