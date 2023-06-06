@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/47240233?s=400&u=6ec0beb72fcd0fbdd0e6c0717460182e2a7e1cf9&v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -83,8 +79,18 @@
 
 ###
 
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/47240233?s=400&u=6ec0beb72fcd0fbdd0e6c0717460182e2a7e1cf9&v=4"  />
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/hamer1818/hamer1818/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hamer1818/count.svg?"  />
+</div>
 
 ###
