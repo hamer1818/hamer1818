@@ -77,9 +77,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/47240233?s=400&u=6ec0beb72fcd0fbdd0e6c0717460182e2a7e1cf9&v=4"  />
 
 ###
 
