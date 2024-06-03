@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben bir yazılım geliştiriciyim ve backend geliştirme konusunda iyi durumdayım. GitHub profilimde yer alan projelerimde, farklı diller ve teknolojiler kullanarak güçlü ve ölçeklenebilir backend çözümleri geliştirmeye odaklanıyorum.
+Ben full-stack yazılım geliştiriciyim. GitHub profilimde yer alan projelerimde, farklı diller ve teknolojiler kullanarak güçlü ve ölçeklenebilir backend çözümleri geliştirmeye odaklanıyorum.
 
 
 ## 🌐 Socials:
