@@ -1,21 +1,21 @@
 <div align="center">
   
-# 👋 Merhaba, Ben Hamza ORTATEPE!
+# 👋 Hi, I'm Hamza ORTATEPE!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C88F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Development+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-🔥 Full-stack geliştirme konusunda tutkulu bir yazılımcıyım  
-💡 Güçlü ve ölçeklenebilir backend çözümleri geliştirmeye odaklanıyorum  
-🌱 Sürekli yeni teknolojiler öğreniyorum ve kendimi geliştiriyorum  
-⚡ Modern web teknolojileri ve veritabanı sistemleri konusunda deneyimliyim
+🔥 I'm a passionate full-stack developer  
+💡 I focus on developing powerful and scalable backend solutions  
+🌱 I'm constantly learning and improving my skills  
+⚡ Experienced in modern web technologies and database systems
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
-### 💻 Programlama Dilleri
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,12 +28,12 @@
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF3E00.svg?style=for-the-badge&logo=astro&logoColor=white)
 
-### ⚙️ Backend & Framework
+### ⚙️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### 🗄️ Veritabanları
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -44,7 +44,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 <div align="center">
   
@@ -53,15 +53,15 @@
   
 </div>
 
-## 🏆 GitHub Başarıları
+## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamer1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-## 📫 Bana Ulaşın
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-ortatepe-19a78b227)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaortatepe)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ortatepehamza)
 
-### 💭 Günün Sözü
+### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
