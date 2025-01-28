@@ -1,69 +1,101 @@
 <div align="center">
-  
-# 👋 Hi, I'm Hamza ORTATEPE!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C88F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Development+Enthusiast;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Hamza+ORTATEPE;Full-Stack+Developer;Backend+Specialist;Continuous+Learner" alt="Typing SVG" />
 </div>
-
-## 🚀 About Me
-
-🔥 I'm a passionate full-stack developer  
-💡 I focus on developing powerful and scalable backend solutions  
-🌱 I'm constantly learning and improving my skills  
-⚡ Experienced in modern web technologies and database systems
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF3E00.svg?style=for-the-badge&logo=astro&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### 🚀 Deployment & Tools
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamer1818&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamer1818&theme=tokyonight&hide_border=true)
-  
-</div>
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hamer1818&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaortatepe)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ortatepehamza)
 
 ---
+
+### 🔥 Technical Architect
+Passionate about crafting robust systems with clean architecture principles. Focused on building scalable backend solutions using modern technologies while maintaining pixel-perfect frontend implementations.
+
+---
+
+## 🛠 Technical Arsenal
+
+### **Core Stack**
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+    
+#### 🌐 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+    </td>
+    <td width="33%" valign="top">
+    
+#### 🚀 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+</p>
+    </td>
+    <td width="33%" valign="top">
+    
+#### 💾 Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+    </td>
+  </tr>
+</table>
+
+### **Supporting Cast**
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+    
+#### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+    </td>
+    <td width="50%" valign="top">
+    
+#### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 Development Metrics
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamer1818&theme=react-dark&hide_border=true&area=true&custom_title=Development+Activity)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamer1818&show_icons=true&theme=react&hide_title=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamer1818&layout=compact&theme=react&hide_border=true) |
+| ------------- | ------------- |
+
+</div>
+
+---
+
+## 🎯 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzaortatepe.com.tr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaortatepe)
+
+</div>
+
+---
+
 <div align="center">
   
-![Visitors](https://visitcount.itsvg.in/api?id=hamer1818&icon=2&color=1)
+![Visitors](https://komarev.com/ghpvc/?username=hamer1818&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
