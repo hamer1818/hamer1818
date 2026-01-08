@@ -75,15 +75,16 @@
 
 ### 📊 GitHub Stats
 
+### 🏆 Github Achievements
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamer1818&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" height="180" alt="streak graph" />
-  
-  <img src="https://raw.githubusercontent.com/hamer1818/hamer1818/output/github-languages.svg" height="180" alt="languages graph" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hamer1818&theme=gitdimmed&column=7&margin-w=15&no-bg=true&no-frame=true" alt="trophy" />
+  </a>
 </div>
 
+### 📈 Coding Activity Graph
 <div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/hamer1818/hamer1818/output/github-stats.svg" height="180" alt="stats graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamer1818&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
