@@ -1,91 +1,86 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Hamza+ORTATEPE;Full-Stack+Developer;Backend+Specialist;Always+Learning" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hamza%20ORTATEPE&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Architect&descSize=20&descAlignY=60" alt="Header" />
+  
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Creating+My+Own+Language:+TulparLang;Crafting+Modern+Web+Experiences;Always+Automating+the+Boring+Stuff" alt="Typing SVG" />
+  </a>
 </div>
-
----
-
-## 👨‍💻 About Me
-- 🎓 Graduated top of class (GPA 3.86) in **Computer Programming**, Ege University (2023).  
-- 📚 Continuing **Management Information Systems** at Anadolu University (2024–).  
-- 💻 Full-Stack Developer experienced in **Backend**, **Frontend**, **Databases**, and **Desktop/Mobile Apps**.  
-- 🚀 Passionate about scalable backend systems, clean architecture, and cross-platform solutions.  
-
----
-
-## 🛠 Skills & Tools
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-### **Frontend**
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black)
-
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### **Desktop & Mobile**
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDA44?style=flat&logo=python&logoColor=black)
-![PyQT5](https://img.shields.io/badge/PyQT-41CD52?style=flat&logo=qt&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-### **Tools & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📌 Featured Projects
-- 🔗 [**Rehberin.net**](https://rehberin.net) – Web app connecting students & mentors (FastAPI + MongoDB).  
-- 🔗 [**Ezanuygulamasi.com**](https://ezanuygulamasi.com) – Prayer time reminder and Quran reading website.  
-- 🔗 [**OrganizasyonTR.com**](https://organizasyontr.com) – Organization listing and filtering platform (AstroJS).  
-- 🔗 [**Cinema Automation**](https://github.com/hamer1818/cinema-automation) – Desktop cinema ticket automation (Tkinter + MSSQL).  
-- 🔗 [**Restaurant Automation**](https://github.com/hamer1818/restaurant-automation) – Restaurant billing automation (Tkinter + Python).  
-- 🔗 [**Live Currency Tracker**](https://github.com/hamer1818/Live-Currency-Tracker-Application) – Real-time FX rates (PyQT + Websockets).  
-- 🔗 [**PyQT Stock App**](https://github.com/hamer1818/PyQT5-Stock-App) – Stock tracking desktop app (PyQT5 + MySQL).  
-- 🔗 [**pip-management**](https://github.com/hamer1818/pip-management) – Custom Python package manager (Tkinter).  
-
----
-
-## 📊 GitHub Activity
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamer1818&theme=github-dark&hide_border=true&area=true)
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=hamer1818&show_icons=true&theme=github_dark&hide_border=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamer1818&layout=compact&theme=github_dark&hide_border=true) |
-|---|---|
-
-</div>
-
----
-
-## 📫 Connect
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzaortatepe.com.tr)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaortatepe)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamer1818)  
-
-</div>
-
----
 
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=hamer1818&label=Profile+Views&color=0e75b6&style=flat)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamza.tr)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzaortatepe)
+  [![Mail](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@hamza.tr)
 
+</div>
+
+---
+
+### 🚀 Currently Building
+
+> **🔥 Highlight:** I am currently developing **[TulparLang](https://github.com/hamer1818/TulparLang)**, a C-based programming language designed for rapid API development.
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="60%">
+        <h3>👨‍💻 About Me</h3>
+        <ul>
+            <li>🎓 <b>Top Graduate (3.86 GPA)</b> in Computer Programming from Ege University.</li>
+            <li>📚 Continuing <b>Management Information Systems</b> at Anadolu University.</li>
+            <li>💡 Passionate about <b>clean architecture</b>, <b>compiler design</b>, and high-performance backend systems.</li>
+            <li>🐧 Linux enthusiast and server administrator (Ubuntu/Nginx/Docker).</li>
+            <li>🔭 Exploring the depths of <b>ASTRO</b> for modern frontend performance.</li>
+        </ul>
+      </td>
+      <td align="center" width="40%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🛠 Tech Stack & Arsenal
+
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Frontend** | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+
+---
+
+### 🏆 Open Source Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🐴 TulparLang](https://github.com/hamer1818/TulparLang)** | A custom programming language for high-speed API development. | `C` `Compiler` |
+| **[🚗 Rent A Car](https://github.com/hamer1818/rent-a-car-with-python)** | Car rental automation system with database integration. | `Python` `Automation` |
+| **[🔢 Matrix Calculator](https://github.com/hamer1818/Matrix-Calculator-Random-Number-Generator)** | Web-based matrix operations & random number generator. | `HTML/JS` `Socket.IO` |
+| **[🎬 Cinema Automation](https://github.com/hamer1818/cinema-automation)** | Desktop cinema ticket & session management automation. | `Tkinter` `MSSQL` |
+| **[🍽️ Restaurant Automation](https://github.com/hamer1818/restaurant-automation)** | Billing and order management system for restaurants. | `Tkinter` `Python` |
+| **[💰 Live Currency](https://github.com/hamer1818/Live-Currency-Tracker-Application)** | Real-time FX rates tracker using websockets. | `PyQT` `Websockets` |
+| **[📈 Stock App](https://github.com/hamer1818/PyQT5-Stock-App)** | Desktop application for tracking stock market data. | `PyQT5` `MySQL` |
+| **[📦 pip-management](https://github.com/hamer1818/pip-management)** | A custom GUI manager for Python packages. | `Tkinter` `Tools` |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamer1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamer1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=hamer1818&label=Profile+Views&color=blue&style=flat-square" alt="visitors">
 </div>
