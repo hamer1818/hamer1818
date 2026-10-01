@@ -1,209 +1,234 @@
-<!-- =========================================================
-     HAMZA ORTATEPE — GITHUB PROFILE README
-     ========================================================= -->
+<!-- ═══════════════════════════════════════════════════════════
+     HAMZA ORTATEPE · github.com/hamer1818
+     ═══════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hamza%20ORTATEPE&fontSize=75&fontAlignY=35&fontColor=ffffff&desc=Backend%20Architect%20%7C%20Language%20Designer%20%7C%20Linux%20Enthusiast&descSize=18&descAlignY=58&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:3d59a1,100:7aa2f7&height=230&section=header&text=Hamza%20Ortatepe&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Language%20Designer%20%C2%B7%20Backend%20Engineer%20%C2%B7%20Systems%20Tinkerer&descSize=18&descAlignY=57&animation=fadeIn" alt="Hamza Ortatepe" />
 </div>
 
-<!-- TYPING ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3366CC&center=true&vCenter=true&multiline=false&width=720&lines=🐴+Building+TulparLang+%E2%80%94+My+Own+Programming+Language;⚡+Architecting+High-Performance+Backend+Systems;🚀+Crafting+Modern+Web+Experiences+with+Astro;🤖+Always+Automating+the+Boring+Stuff" alt="Typing SVG" />
+  <a href="https://github.com/hamer1818/TulparLang">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Building+TulparLang+%F0%9F%90%B4+my+own+programming+language;Python-easy+syntax.+C-class+performance.;LLVM+%C2%B7+AOT+%C2%B7+native+HTTP+out+of+the+box;Rust+%C2%B7+C%2B%2B+%C2%B7+C+%C2%B7+Python+%C2%B7+Linux" alt="typing" />
   </a>
 </div>
 
-<!-- QUICK NAV -->
-<div align="center">
-  <a href="#-about-me"><img src="https://img.shields.io/badge/👨‍💻_About-0D1117?style=for-the-badge" /></a>
-  <a href="#-featured-project-tulparlang"><img src="https://img.shields.io/badge/🔥_Featured-0D1117?style=for-the-badge" /></a>
-  <a href="#-tech-stack"><img src="https://img.shields.io/badge/🛠_Stack-0D1117?style=for-the-badge" /></a>
-  <a href="#-projects"><img src="https://img.shields.io/badge/🏆_Projects-0D1117?style=for-the-badge" /></a>
-  <a href="#-github-stats"><img src="https://img.shields.io/badge/📊_Stats-0D1117?style=for-the-badge" /></a>
-  <a href="#-lets-connect"><img src="https://img.shields.io/badge/🤝_Connect-0D1117?style=for-the-badge" /></a>
-</div>
+<p align="center">
+  <a href="https://hamza.tr"><img src="https://img.shields.io/badge/hamza.tr-1a1b26?style=flat-square&logo=googlechrome&logoColor=7aa2f7" /></a>
+  <a href="https://tulparlang.dev"><img src="https://img.shields.io/badge/tulparlang.dev-1a1b26?style=flat-square&logo=llvm&logoColor=bb9af7" /></a>
+  <a href="https://linkedin.com/in/hamzaortatepe"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" /></a>
+  <a href="mailto:info@hamza.tr"><img src="https://img.shields.io/badge/info@hamza.tr-1a1b26?style=flat-square&logo=maildotru&logoColor=7aa2f7" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hamer1818&label=views&color=7aa2f7&style=flat-square" />
+</p>
 
 <br/>
 
-<!-- LIVE METRICS BADGES -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hamer1818&label=PROFILE+VIEWS&color=3366CC&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/hamer1818?label=FOLLOWERS&style=for-the-badge&color=3366CC&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/hamer1818?label=STARS&style=for-the-badge&color=3366CC&labelColor=0D1117" />
-</div>
-
----
-
-## 👨‍💻 About Me
+## 👋 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="56%" valign="top">
 
-```python
-class HamzaOrtatepe:
-    def __init__(self):
-        self.name      = "Hamza Ortatepe"
-        self.role      = "Backend Architect"
-        self.location  = "Türkiye 🇹🇷"
-        self.education = {
-            "degree": "Computer Programming",
+```go
+// about.tpr — yes, it's written in my own language 🐴
+import "wings";
+
+str name     = "Hamza Ortatepe";
+str location = "Türkiye 🇹🇷";
+
+func about(req) {
+    return {
+        "role":      "Backend Architect & Language Designer",
+        "education": {
+            "degree": "Computer Programming — Ege University",
             "gpa":    3.86,
-            "status": "Top Graduate — Ege University",
+            "rank":   "Top graduate",
             "next":   "MIS @ Anadolu University"
-        }
-        self.languages = ["Türkçe", "English"]
-        self.code      = ["Python", "C", "TypeScript", "PHP"]
-        self.focus     = ["Compilers", "Clean Architecture",
-                          "High-Perf Backends"]
-        self.currently = "Building TulparLang 🐴"
+        },
+        "speaks":    ["Türkçe", "English"],
+        "writes":    ["C", "C++", "Rust", "Python", "TypeScript"],
+        "focus":     ["Compilers", "High-perf backends", "Linux"],
+        "building":  "TulparLang"
+    };
+}
 
-    def say_hi(self):
-        print("Thanks for dropping by — let's build something!")
-
-me = HamzaOrtatepe()
-me.say_hi()
+get("/about", about);
+serve(8080);
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="44%" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+**🔭 Right now**
+- 🐴 Shipping **[TulparLang](https://github.com/hamer1818/TulparLang)** — an LLVM-backed, AOT-compiled language
+- 🎮 Building **[tulpar-engine](https://github.com/hamer1818/tulpar-engine)**, a C++ game engine
+- 🎓 Studying Management Information Systems
 
-<details>
-<summary><b>🧠 Fun Facts</b></summary>
-<br/>
+**⚙️ How I work**
+- Native > bloated. Single binary > 400 MB of `node_modules`
+- If I do it twice, I automate it
+- I run my own servers — Ubuntu · Nginx · Docker
 
-- 🐧 I run my own Linux servers (Ubuntu + Nginx + Docker)
-- 🎓 Graduated top of my class — GPA 3.86
-- 🔭 Currently designing a programming language from scratch
-- 🌱 Learning **Astro** and eyeing **Rust** next
-- ☕ Powered by filter coffee and curiosity
+**🤝 Open to**
+- Compiler / systems collaborations
+- OSS contributions & freelance backend work
 
-</details>
-
-<details>
-<summary><b>📫 Office Hours</b></summary>
-<br/>
-
-- **Best time to reach me:** 10:00 – 18:00 (GMT+3)
-- **Response:** Usually within 24 hours
-- **Open to:** Collaboration · OSS contributions · Freelance
-
-</details>
+<sub>⏰ GMT+3 · usually replies within 24h · ☕ filter coffee powered</sub>
 
 </td>
 </tr>
 </table>
 
----
+## 🐴 Featured — TulparLang
 
-## 🔥 Featured Project: TulparLang
+<p>
+  <a href="https://github.com/hamer1818/TulparLang"><img src="https://img.shields.io/github/stars/hamer1818/TulparLang?style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=github" /></a>
+  <a href="https://github.com/hamer1818/TulparLang/commits/main"><img src="https://img.shields.io/github/last-commit/hamer1818/TulparLang?style=flat-square&color=bb9af7&labelColor=1a1b26" /></a>
+  <img src="https://img.shields.io/badge/backend-LLVM%2018--22-9ece6a?style=flat-square&labelColor=1a1b26&logo=llvm" />
+  <img src="https://img.shields.io/badge/license-MIT-e0af68?style=flat-square&labelColor=1a1b26" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/hamer1818/TulparLang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamer1818&repo=TulparLang&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
+> **Python-easy syntax. C-class performance. HTTP-ready out of the box.**
+> A statically-typed, ahead-of-time compiled language that turns `.tpr` files into dependency-free native binaries.
 
-> **TulparLang** is a C-based programming language I'm building from scratch, focused on rapid API development with compile-time safety and minimal runtime overhead.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🔍 What makes it interesting?</b></summary>
-<br/>
+**A REST API in 6 lines**
 
-- ⚡ **C-speed execution** — no VM, no GC overhead
-- 🌐 **First-class HTTP primitives** — routes as a language feature
-- 🛠️ **Hand-rolled pipeline** — lexer → parser → AST → codegen
-- 🎯 **Designed for backend devs** who want to stop writing boilerplate
+```go
+import "wings";
 
-</details>
+func home(req) {
+    return {"hello": "world", "ts": now_iso8601()};
+}
 
----
+get("/", home);
+serve(8080);
+```
+
+```bash
+curl -fsSL https://tulparlang.dev/install.sh | bash
+```
+
+</td>
+<td width="50%" valign="top">
+
+**Why it's interesting**
+
+- ⚡ **AOT via LLVM** — no VM, no interpreter, native code only
+- 🌐 **`wings` stdlib** — HTTP/HTTPS server with 4 listener models
+- 🧩 **First-class JSON** — literals + dot access, zero libraries
+- 🛡️ **Gradual typing** — annotated code is checked at compile time
+- 🇹🇷 **Bilingual** — Turkish & English keywords, UTF-8 everywhere
+- 📦 **Single binary** — ~7 MB toolchain, nothing to install on target
+
+</td>
+</tr>
+</table>
+
+**Ecosystem** · [Docs site](https://github.com/hamer1818/tulpar-lang-web) · [VS Code extension](https://github.com/hamer1818/TulparLang-ext) · [Package example](https://github.com/hamer1818/tulpar-pkg-helloworld) · LSP & formatter built in
 
 ## 🛠 Tech Stack
 
 <div align="center">
 
-#### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,ts,php,js,html,css,bash" />
-
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,supabase,postgres,mongodb,mysql" />
-
-#### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=astro,react,tailwind,vite" />
-
-#### 🚀 DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,ubuntu,nginx,linux,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,php,bash&theme=dark" /><br/>
+<sub><b>LANGUAGES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=llvm,cmake,qt,fastapi,nodejs,postgres,mysql,mongodb,supabase&theme=dark" /><br/>
+<sub><b>SYSTEMS · BACKEND · DATA</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=astro,react,tailwind,vite&theme=dark" /><br/>
+<sub><b>FRONTEND</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,docker,nginx,git,github,vscode&theme=dark" /><br/>
+<sub><b>INFRA · TOOLING</b></sub>
 
 </div>
-
----
 
 ## 🏆 Projects
 
+<table>
+<tr>
+<th align="left" width="33%">⚙️ Systems & Native</th>
+<th align="left" width="33%">🐧 Linux & Dev Tools</th>
+<th align="left" width="34%">🖥️ Apps</th>
+</tr>
+<tr>
+<td valign="top">
+
+**[tulpar-engine](https://github.com/hamer1818/tulpar-engine)**<br/>
+<sub>Game engine written from scratch</sub><br/>
+<code>C++</code>
+
+**[OwnCam](https://github.com/hamer1818/OwnCam)**<br/>
+<sub>Android phone → Wi-Fi webcam with background removal</sub><br/>
+<code>Rust</code>
+
+**[lan-share](https://github.com/hamer1818/lan-share)**<br/>
+<sub>High-performance LAN file sharing server</sub><br/>
+<code>C++</code>
+
+**[wallpaper-anim](https://github.com/hamer1818/wallpaper-anim)**<br/>
+<sub>Animated wallpaper engine for Windows</sub><br/>
+<code>C++</code>
+
+</td>
+<td valign="top">
+
+**[frostbite-lcd](https://github.com/hamer1818/frostbite-lcd)**<br/>
+<sub>CPU temperature on AIO cooler LCDs under Linux</sub><br/>
+<code>Python</code>
+
+**[TulparTools](https://github.com/hamer1818/TulparTools)**<br/>
+<sub>Terminal app store on top of winget</sub><br/>
+<code>CLI</code>
+
+**[tpr-yt](https://github.com/hamer1818/tpr-yt)**<br/>
+<sub>YouTube playlist → high-quality MP3</sub><br/>
+<code>Shell</code>
+
+**[fake-form-filler](https://github.com/hamer1818/fake-form-filler)**<br/>
+<sub>Chrome extension that fills forms with Turkish test data</sub><br/>
+<code>JavaScript</code>
+
+</td>
+<td valign="top">
+
+**[fastci-ascii-generator](https://github.com/hamer1818/fastci-ascii-generator)**<br/>
+<sub>ASCII art studio for images & videos</sub><br/>
+<code>Python</code>
+
+**[O-File-Process](https://github.com/hamer1818/O-File-Process)**<br/>
+<sub>Multi-language file manager</sub><br/>
+<code>PyQt6</code>
+
+**[fastapiSocketChat](https://github.com/hamer1818/fastapiSocketChat)**<br/>
+<sub>Real-time chat over WebSockets</sub><br/>
+<code>FastAPI</code>
+
+**[rent-a-car-with-python](https://github.com/hamer1818/rent-a-car-with-python)**<br/>
+<sub>Car rental automation with DB integration</sub><br/>
+<code>Python</code>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><a href="https://github.com/hamer1818?tab=repositories"><sub>all repositories →</sub></a></p>
+
+## 📊 GitHub Activity
+
 <div align="center">
-
-<a href="https://github.com/hamer1818/TulparLang">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamer1818&repo=TulparLang&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/hamer1818/rent-a-car-with-python">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamer1818&repo=rent-a-car-with-python&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/hamer1818/cinema-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamer1818&repo=cinema-automation&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/hamer1818/Live-Currency-Tracker-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamer1818&repo=Live-Currency-Tracker-Application&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamer1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true&include_all_commits=true&rank_icon=github&hide=issues" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamer1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&langs_count=8&hide=html,css,mdx" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=hamer1818&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" />
 </div>
-
-<details>
-<summary><b>📂 View All Projects (8)</b></summary>
 
 <br/>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [🐴 **TulparLang**](https://github.com/hamer1818/TulparLang) | Custom C-based language for high-speed APIs | `C` · `Compiler` |
-| [🚗 **Rent A Car**](https://github.com/hamer1818/rent-a-car-with-python) | Car rental automation with DB integration | `Python` |
-| [🔢 **Matrix Calculator**](https://github.com/hamer1818/Matrix-Calculator-Random-Number-Generator) | Web-based matrix ops & RNG | `HTML/JS` · `Socket.IO` |
-| [🎬 **Cinema Automation**](https://github.com/hamer1818/cinema-automation) | Ticket & session management system | `Tkinter` · `MSSQL` |
-| [🍽️ **Restaurant Automation**](https://github.com/hamer1818/restaurant-automation) | Billing and order management | `Tkinter` · `Python` |
-| [💰 **Live Currency**](https://github.com/hamer1818/Live-Currency-Tracker-Application) | Real-time FX tracker via websockets | `PyQT` · `Websockets` |
-| [📈 **Stock App**](https://github.com/hamer1818/PyQT5-Stock-App) | Stock market tracking desktop app | `PyQT5` · `MySQL` |
-| [📦 **pip-management**](https://github.com/hamer1818/pip-management) | GUI manager for Python packages | `Tkinter` |
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hamer1818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hamer1818&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamer1818&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamer1818&theme=tokyonight" />
-</div>
-
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamer1818&theme=tokyonight&column=7&margin-w=15&no-bg=true&no-frame=true" />
-</div>
-
-### 📈 Contribution Activity
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamer1818&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" />
-</div>
-
-### 🐍 Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamer1818/hamer1818/output/github-contribution-grid-snake-dark.svg" />
@@ -212,31 +237,10 @@ me.say_hi()
   </picture>
 </div>
 
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="https://hamza.tr"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hamzaortatepe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:info@hamza.tr"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hamer1818"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</div>
-
 <br/>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/hamer1818">hamer1818</a> — with coffee and compiler warnings.</i>
+  <sub>🐴 <i>Tulpar</i> — the winged horse of Turkic mythology. Built with coffee, compiler warnings and a lot of <code>-O3</code>.</sub>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b26&height=110&section=footer" width="100%" />
